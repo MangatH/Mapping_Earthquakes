@@ -13,12 +13,13 @@
 ## Results:
 The tectonic plates data was added to the map as shown in the map below.
 
-<img width="1440" alt="Screen Shot 2022-11-29 at 7 28 39 PM" src="https://user-images.githubusercontent.com/111387025/204548663-b2e1533f-3487-48ca-9136-8c88f7100675.png">
+<img width="1440" alt="Screen Shot 2022-11-29 at 7 40 22 PM" src="https://user-images.githubusercontent.com/111387025/204551646-a10e52e0-d4d8-47ac-a9d9-1f4e46f05a1f.png">
 
 The map showing the data for the major earthquakes on the satellite map.
 
-<img width="1440" alt="Screen Shot 2022-11-29 at 7 27 43 PM" src="https://user-images.githubusercontent.com/111387025/204548740-d6f4f19d-c440-4c01-9989-23abf22b6a61.png">
+<img width="1440" alt="Screen Shot 2022-11-29 at 7 41 06 PM" src="https://user-images.githubusercontent.com/111387025/204551709-9d93123b-bc81-4a3d-8c79-999310dba3f7.png">
+
 
 The third map added which is shown in image below.
 
-<img width="1440" alt="Screen Shot 2022-11-29 at 7 28 13 PM" src="https://user-images.githubusercontent.com/111387025/204548959-9423aa9d-bb83-4e8d-8e9a-befb15b4df8c.png">
+<img width="1440" alt="Screen Shot 2022-11-29 at 7 41 25 PM" src="https://user-images.githubusercontent.com/111387025/204551755-981145ed-af78-465b-abe8-883a1766cbaa.png">
