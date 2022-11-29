@@ -6,9 +6,9 @@
 * To see the data on a third map.
 
 ### Purpose of the project:
-Deliverable 1: Add Tectonic Plate Data
-Deliverable 2: Add Major Earthquake Data
-Deliverable 3: Add an Additional Map
+* Add Tectonic Plate Data
+* Add Major Earthquake Data
+* Add an Additional Map
 
 ## Results:
 The tectonic plates data was added to the map as shown in the map below.
